@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 25rem;
+}
+
+.container {
+    width: 80%;
+    margin: 1rem auto;
+}
+
+main {
+    display: flex;
+}
+
+.character-container {
+    border: 1px solid black;
+    width: 30rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.vs{
+    font-size: 3rem;
+    margin: 1rem;
+}
+
+.points {
+    font-size: 2rem;
+}
+
+button {
+    background-color: rgb(121, 19, 216);
+    color: white;
+    border: none;
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
